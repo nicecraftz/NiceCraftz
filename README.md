@@ -1,5 +1,5 @@
 <h1 align=center>🤷‍♂️ Hi! I'm Alessandro</h1>
-<p align="center">I am a Spigot Developer working with Java!</p>
+<p align=center>I am a Spigot Developer working with Java!</>
 
 <h1 align=center>👨‍💻 Known Programming Languages</h1>
 <p align=center>
