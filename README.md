@@ -1,35 +1,44 @@
-<h1 align=center>🤷‍♂️ Hi! I'm Alessandro</h1>
-<p align=center>I am a Spigot Developer working with Java!</>
+Hi 👋 My name is Alessandro Calista
+===================================
 
-<h1 align=center>👨‍💻 Known Programming Languages</h1>
-<p align=center>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <p align=center>Currently Studying:<p>
-  <p align=center>
-     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </p>
-   <p align=center> Would like to learn: </p>
-   <p align=center>
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  </p>
+Java Developer
+--------------
+
+Hello I am Alessandro and I am a Java Developer, I am 17 years old and I am from Italy. I started coding at 13 and quickly began my journey in the coding industry.
+
+* 🌍  I live in Italy
+* 🖥️  See my portfolio on [Telegram](http://t.me/CraftzLounge)
+* 🚀  I'm currently working on [MillandClub](http://t.me/MillandClub)
+* ⚡  Im a total [weeb](https://www.urbandictionary.com/define.php?term=Weeb)
+
+<a href="https://www.twitter.com/NiceCraftz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/NiceCraftz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
+/></a><a href="https://www.github.com/NiceCraftz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NiceCraftz?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://www.twitch.tv/nicecraftz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/nicecraftz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=171717&label=TWITCH+STATUS" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+### Socials
 
-<h1 align=center>💬 Contact Me!</h1>
-<p align=center>
-  <a href="https://t.me/Carcasse">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <a/>
-</p>
-  
-  
-<h1 align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=nicecraftz"></img>
-</h1>
- 
-<!---
-NiceCraftz/NiceCraftz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://discord.com/users/689519446578298982/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/NiceCraftz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alee.calista" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NiceCraftz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/itzalexyt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/nicecraftz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/NiceCraftz"><img src="https://github-readme-stats.vercel.app/api?username=NiceCraftz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="NiceCraftz's GitHub stats" /></a>
+
+<a href="http://www.github.com/NiceCraftz"><img src="https://activity-graph.herokuapp.com/graph?username=NiceCraftz&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/NiceCraftz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCraftz&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
