@@ -9,7 +9,6 @@ Hello I am Alessandro and I am a Java Developer, I am 17 years old and I am from
 * 🌍  I live in Italy
 * 🖥️  See my portfolio on [Telegram](http://t.me/CraftzLounge)
 * 🚀  I'm currently working on [MillandClub](http://t.me/MillandClub)
-* ⚡  Im a total [weeb](https://www.urbandictionary.com/define.php?term=Weeb)
 
 <a href="https://www.twitter.com/NiceCraftz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NiceCraftz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
