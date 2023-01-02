@@ -1,4 +1,4 @@
-Hi 👋 My name is Alessandro Calista
+Hi 👋 My name is Alessandro
 ===================================
 
 Java Developer
