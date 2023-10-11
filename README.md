@@ -1,14 +1,10 @@
-Hi 👋 My name is Alessandro
-===================================
 
-Java Developer
---------------
+![gfx-github copia](https://github.com/nicecraftz/NiceCraftz/assets/47219477/adbb83d9-a3d2-45c5-b23f-c27c60d499b0)
 
-Hello I am Alessandro and I am a Java Developer, I am 17 years old and I am from Italy. I started coding at 13 and quickly began my journey in the coding industry.
+Hello I am Alessandro and I am a Java Developer, I am 18 years old and I am from Italy. I started coding at 13 and quickly began my journey in the coding world.
 
 * 🌍  I live in Italy
-* 🖥️  See my portfolio on [Telegram](http://t.me/CraftzLounge)
-* 🚀  I'm currently working on [MillandClub](http://t.me/MillandClub)
+* 🖥️  See my projects on [Telegram](http://t.me/CraftzLounge)
 
 <a href="https://www.twitter.com/NiceCraftz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NiceCraftz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
