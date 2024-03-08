@@ -1,7 +1,7 @@
 
 ![gfx-github copia](https://github.com/nicecraftz/NiceCraftz/assets/47219477/adbb83d9-a3d2-45c5-b23f-c27c60d499b0)
 
-Hello I am Alessandro and I am a Java Developer, I am 18 years old and I am from Italy. I started coding at 13 and quickly began my journey in the coding world.
+Hello! I am Alessandro and I am a Java Developer, I am 19 years old and I am from Italy. I started coding at 13 and quickly began my journey in the coding world.
 
 * 🌍  I live in Italy
 * 🖥️  See my projects on [Telegram](http://t.me/CraftzLounge)
