@@ -9,6 +9,11 @@ Hello! I am Alessandro and I am a Java Developer, I am 19 years old and I am fro
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NiceCraftz"><img src="https://github-readme-stats.vercel.app/api?username=NiceCraftz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="NiceCraftz's GitHub stats" /></a>
-
-<a href="https://github.com/NiceCraftz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCraftz&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 40px;">
+  <a href="https://github.com/NiceCraftz" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceCraftz&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    </a>
+    <a href="http://www.github.com/NiceCraftz">
+        <img src="https://github-readme-stats.vercel.app/api?username=NiceCraftz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="NiceCraftz's GitHub stats" />
+    </a>
+</div>
